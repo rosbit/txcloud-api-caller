@@ -1,0 +1,4 @@
+---
+access-key:
+  secret-id: secret-id-to-access-txcloud
+  secret-key: key-of-secret-id
